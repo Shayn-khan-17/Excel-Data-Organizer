@@ -1,1 +1,2 @@
 # Excel-Data-Organizer
+This C++ program takes numerical data as input from the user and automatically arranges it into structured rows and columns in an Excel sheet. The system organizes the values in a clean tabular format and saves the output as an Excel-compatible file, making the data easy to view, analyze, and use for further processing. It is designed to simplify data entry, reduce manual formatting, and provide fast and organized data placement in spreadsheets.
